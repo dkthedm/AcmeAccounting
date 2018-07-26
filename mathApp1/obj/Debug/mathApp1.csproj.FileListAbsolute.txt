@@ -1,0 +1,7 @@
+C:\Users\dkirk\source\repos\mathApp1\mathApp1\obj\Debug\mathApp1.csprojResolveAssemblyReference.cache
+C:\Users\dkirk\source\repos\mathApp1\mathApp1\obj\Debug\mathApp1.csproj.CoreCompileInputs.cache
+C:\Users\dkirk\source\repos\mathApp1\mathApp1\bin\Debug\mathApp1.exe.config
+C:\Users\dkirk\source\repos\mathApp1\mathApp1\bin\Debug\mathApp1.exe
+C:\Users\dkirk\source\repos\mathApp1\mathApp1\bin\Debug\mathApp1.pdb
+C:\Users\dkirk\source\repos\mathApp1\mathApp1\obj\Debug\mathApp1.exe
+C:\Users\dkirk\source\repos\mathApp1\mathApp1\obj\Debug\mathApp1.pdb
